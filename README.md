@@ -1,4 +1,5 @@
-This repository contains a Kaggle challenge, in which house prices should be predicted given a set of variables.
+This repository contains code to a Kaggle challenge, in which house prices should be predicted given a set of variables.
+(link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 It mainly serves the purpose of getting familiar with Python, pandas and basic machine learning / regression techniques and practicing feature engineering to improve the model's prediction accuracy.
 
