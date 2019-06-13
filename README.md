@@ -8,4 +8,4 @@ Please feel free to comment on my code since this is my first Kaggle challenge /
 
 Things to try:
   - use regularization before training the model (Lasso, Ridge); alternative: try wrapper rfcv()
-  - log(x+1) transform the numerical data in order to get them closer to normal distribution before standardizing
+  - use XGBoost algorithm 
